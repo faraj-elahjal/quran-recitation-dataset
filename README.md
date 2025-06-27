@@ -42,8 +42,3 @@ The dataset providers are **exempt from all legal liability** arising from its u
 
 ---  
 🕌 **Respect the Sanctity of the Quran** | **احترام قدسية القرآن الكريم**
->>>>>>> bb978e7 (Add .gitattributes for LFS support and create README with project details)
-=======
-# quran-recitation-datase
-قاعدة البيانات تحتوي على تسجيلات صوتية لتلاوة أول ثلاث آيات من سورة المطففين، وقد تم جمعها من مشاركين مختلفين بهدف إنشاء نموذج ذكاء اصطناعي للتعرف على أخطاء التلاوة وتحسين النطق.
->>>>>>> 1a263ce55790ae4c9699f755b9b0c53c920bc067
